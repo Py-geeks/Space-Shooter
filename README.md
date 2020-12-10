@@ -71,7 +71,7 @@ class Laser:
     def collision(self, obj):
         return collide(self, obj)
 ```
-Prent class for ships
+Parent class for ships
 ```Python
 class Ship:
     COOLDOWN = 30
