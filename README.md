@@ -300,7 +300,7 @@ main_menu()
 Game logic
 
 ### Demo
-<img src="demo.jpg" >
+<img src="DEMO.jpg" >
 
 ### Developed By:
 [Ankit Mohanty](https://github.com/sovan580)
